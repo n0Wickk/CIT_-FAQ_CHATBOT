@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hey there"
+    },
+    {
+      "question": "araullo university",
+      "answer": "Araullo University is a reputable institution located in Nueva Ecija. Our university has three campuses: San Jose, Main, and South. It offers various programs, including those in the field of Information Technology."
+    },
+    {
+      "question": "cit department",
+      "answer": "the (CIT) at Araullo University is dedicated to preparing students for careers in technology. It is located at the South campus."
+    },
+    {
+      "question": "major offer",
+      "answer": "The College of Information Technology (CIT) at Araullo University offers majors in Web Development and Service Culture."
+    },
+    {
+      "question": "cit located",
+      "answer": "The College of Information Technology (CIT) is located at the South campus of Araullo University."
+    },
+    {
+      "question": "facilities south",
+      "answer": "The South campus provides CIT students with modern facilities including specialized computer labs, libraries, lecture halls, and other resources tailored to support their learning and research needs."
+    },
+    {
+      "question": "web dev major development",
+      "answer": "The Web Development major at CIT focuses on equipping students with the skills needed to design, develop, and maintain websites and web applications. It covers programming languages, web frameworks, and best practices in user experience (UX) and user interface (UI) design."
+    },
+    {
+      "question": "service culture major",
+      "answer": "The Service Culture major at CIT emphasizes understanding customer needs and providing quality service in various IT-related industries. It covers topics such as customer relationship management (CRM), service design, and communication skills to ensure students are well-prepared for roles in client-facing positions."
+    },
+    {
+      "question": "where are you from",
+      "answer": "I am a FAQ CHATBOT of the College of Information Technology (CIT) from Araullo University, located at the South campus."
+    },
+    {
+      "question": "who are you",
+      "answer": "I am a FAQ CHATBOT of the College of Information Technology (CIT) from Araullo University, located at the South campus."
+    }
+  ]
+}
