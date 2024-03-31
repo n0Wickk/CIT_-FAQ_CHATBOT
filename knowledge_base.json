@@ -2,7 +2,7 @@
   "questions": [
     {
       "question": "hello",
-      "answer": "hey there"
+      "answer": "Hello! I'm a FAQ CHATBOT from the College of Information Technology (CIT) at Araullo University, located at the South campus."
     },
     {
       "question": "araullo university",
@@ -25,7 +25,7 @@
       "answer": "The South campus provides CIT students with modern facilities including specialized computer labs, libraries, lecture halls, and other resources tailored to support their learning and research needs."
     },
     {
-      "question": "web dev major development",
+      "question": "web development major",
       "answer": "The Web Development major at CIT focuses on equipping students with the skills needed to design, develop, and maintain websites and web applications. It covers programming languages, web frameworks, and best practices in user experience (UX) and user interface (UI) design."
     },
     {
