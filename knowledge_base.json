@@ -39,6 +39,98 @@
     {
       "question": "who are you",
       "answer": "I am a FAQ CHATBOT of the College of Information Technology (CIT) from Araullo University, located at the South campus."
+    },
+    {
+      "question": "what does cit means?",
+      "answer": "College of Information Technology"
+    },
+    {
+      "question": "how many students per section?",
+      "answer": "50 students per section"
+    },
+    {
+      "question": "what is the benefits of taking it course?",
+      "answer": "Taking an IT course can provide benefits such as acquiring valuable technical skills, improving career prospects, staying updated with the latest technology trends, and increasing earning potential."
+    },
+    {
+      "question": "benefits of it",
+      "answer": "Taking an IT course can provide benefits such as acquiring valuable technical skills, improving career prospects, staying updated with the latest technology trends, and increasing earning potential."
+    },
+    {
+      "question": "is it right for me?",
+      "answer": "Determining if an IT course is right for you depends on your interests, career goals, and willingness to learn technical skills. If you're passionate about technology and seeking to enhance your career prospects in the field, an IT course could be a great fit."
+    },
+    {
+      "question": "what are the jobs of an it graduate?",
+      "answer": "IT graduates can pursue various roles, including: Software Developer, Network Administrator, Systems Analyst, Database Administrator, IT Support Specialist      ."
+    },
+    {
+      "question": "kamusta",
+      "answer": "Hello! I'm a FAQ CHATBOT from the College of Information Technology (CIT) at Araullo University, located at the South campus."
+    },
+    {
+      "question": "araullo university",
+      "answer": "Araullo University is a reputable institution located in Nueva Ecija. Our university has three campuses: San Jose, Main, and South. It offers various programs, including those in the field of Information Technology."
+    },
+    {
+      "question": "cit department",
+      "answer": "the (CIT) at Araullo University is dedicated to preparing students for careers in technology. It is located at the South campus."
+    },
+    {
+      "question": "major inooffer",
+      "answer": "The College of Information Technology (CIT) at Araullo University offers majors in Web Development and Service Culture."
+    },
+    {
+      "question": "cit saan",
+      "answer": "The College of Information Technology (CIT) is located at the South campus of Araullo University."
+    },
+    {
+      "question": "pasilidad south",
+      "answer": "The South campus provides CIT students with modern facilities including specialized computer labs, libraries, lecture halls, and other resources tailored to support their learning and research needs."
+    },
+    {
+      "question": "web development na major",
+      "answer": "The Web Development major at CIT focuses on equipping students with the skills needed to design, develop, and maintain websites and web applications. It covers programming languages, web frameworks, and best practices in user experience (UX) and user interface (UI) design."
+    },
+    {
+      "question": "major na service culture",
+      "answer": "The Service Culture major at CIT emphasizes understanding customer needs and providing quality service in various IT-related industries. It covers topics such as customer relationship management (CRM), service design, and communication skills to ensure students are well-prepared for roles in client-facing positions."
+    },
+    {
+      "question": "taga saan ka",
+      "answer": "I am a FAQ CHATBOT of the College of Information Technology (CIT) from Araullo University, located at the South campus."
+    },
+    {
+      "question": "ano ka",
+      "answer": "I am a FAQ CHATBOT of the College of Information Technology (CIT) from Araullo University, located at the South campus."
+    },
+    {
+      "question": "sino ka",
+      "answer": "I am a FAQ CHATBOT of the College of Information Technology (CIT) from Araullo University, located at the South campus."
+    },
+    {
+      "question": "ano ibig sabihin cit?",
+      "answer": "College of Information Technology"
+    },
+    {
+      "question": "ilang studyante kada section?",
+      "answer": "50 students per section"
+    },
+    {
+      "question": "ano benepisyo ng it kurso?",
+      "answer": "Taking an IT course can provide benefits such as acquiring valuable technical skills, improving career prospects, staying updated with the latest technology trends, and increasing earning potential."
+    },
+    {
+      "question": "benepisyo ng it",
+      "answer": "Taking an IT course can provide benefits such as acquiring valuable technical skills, improving career prospects, staying updated with the latest technology trends, and increasing earning potential."
+    },
+    {
+      "question": "dapat ba akong mag it?",
+      "answer": "Determining if an IT course is right for you depends on your interests, career goals, and willingness to learn technical skills. If you're passionate about technology and seeking to enhance your career prospects in the field, an IT course could be a great fit."
+    },
+    {
+      "question": "trabaho ng it?",
+      "answer": "IT graduates can pursue various roles, including: Software Developer, Network Administrator, Systems Analyst, Database Administrator, IT Support Specialist      ."
     }
   ]
 }

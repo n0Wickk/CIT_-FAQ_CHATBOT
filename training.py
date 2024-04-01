@@ -39,8 +39,16 @@ def chat_bot():
             answer: str = get_answer_for_question(best_match, knowledge_base)
             print(f'Bot: {answer}\n')
         else:
-            print('Bot: Sorry, I don\'t know the answer. \n')
+            print('Bot: Sorry, I don\'t know the answer. Can you teach me?')
+            new_answer: str = input('Enter the answer or press ENTER to skip: \n')
 
+            if new_answer.strip():  
+                knowledge_base['questions'].append({
+                    'question': user_input,
+                    'answer': new_answer
+                })
+                save_knowledge_base('knowledge_base.json', knowledge_base)
+                print('Bot: I\'ve learned the answer. Thank you!\n')
 
 if __name__ == '__main__':
     chat_bot()
